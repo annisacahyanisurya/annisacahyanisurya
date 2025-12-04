@@ -9,7 +9,7 @@ A Data Science graduate who loves learning about data, building simple projects,
 
 ### Skills and Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=gmail,github,latex,mysql,py,r,sklearn,vscode,tensorflow&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,py,r,sklearn,tensorflow,docker,vscode,github,latex)](https://skillicons.dev)
 
 
 <!--
