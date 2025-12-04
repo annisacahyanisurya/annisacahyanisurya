@@ -4,7 +4,12 @@ A Data Science graduate who loves learning about data, building simple projects,
 
 - 🔭 I’m exploring career opportunities in data-related roles. 
 - 🌱 I’m currently learning to build scalable data workflows, ETL pipelines, and cloud-based engineering tools. 
-- 🎯 My current goal : Build strong data engineering skills and contribute to real-world projects. 
+- 🎯 My current goal : Build strong data engineering skills and contribute to real-world projects.
+
+
+### Skills and Tools 
+
+[![My Skills](https://skillicons.dev/icons?i=gmail,github,latex,mysql,py,r,sklearn,vscode,tensorflow&perline=3)](https://skillicons.dev)
 
 
 <!--
